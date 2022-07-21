@@ -1,0 +1,39 @@
+{
+    "name": "solgate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lunap2p/solgate.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/lunap2p/solgate/issues"
+    },
+    "homepage": "https://github.com/lunap2p/solgate#readme",
+    "dependencies": {
+      "@solana/buffer-layout": "^4.0.0",
+      "@solana/spl-token": "^0.2.0",
+      "@solana/web3.js": "^1.39.1",
+      "accurate": "^1.5.8",
+      "bignumber.js": "^9.0.2",
+      "bip32": "^3.0.1",
+      "bip39": "^3.0.4",
+      "borsh": "^0.7.0",
+      "csv-parser": "^3.0.0",
+      "csv-writer": "^1.6.0",
+      "dotenv": "^16.0.0",
+      "ed25519-hd-key": "^1.2.0",
+      "ioredis": "^5.0.4",
+      "mz": "^2.7.0",
+      "number-precision": "^1.5.2",
+      "ramda": "^0.28.0",
+      "tweetnacl": "^1.0.3"
+    }
+  }
